@@ -5,6 +5,8 @@ import userRoutes from './userRoutes.js';
 import gemstoneRoutes from './gemstoneRoutes.js';
 import recommendationRoutes from './recommendationRoutes.js';
 import adminRoutes from './adminRoutes.js';
+import healthRoute from './healthRoute.js';
+
 
 const router = Router();
 
@@ -15,14 +17,8 @@ router.use('/recommendations', recommendationRoutes);
 router.use('/admin', adminRoutes);
 
 // -------------- Health (public) --------------
-router.get('/health', (req, res) => {
-  res.status(200).json({
-    status: 'success',
-    message: 'Gemstone Recommendation App API is running smoothly',
-    timestamp: new Date().toISOString(),
-    uptime: `${Math.floor(process.uptime())}s`,
-  });
-});
+router.use('/health', healthRoute);
 
 export default router;
+
 

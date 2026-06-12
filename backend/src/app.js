@@ -26,10 +26,17 @@ app.use(express.urlencoded({ extended: true, limit: '10kb' }));
 // 4. Request Logging Middleware (Morgan + Winston)
 app.use(requestLogger);
 
-// 5. Mount Base Routes
+// 5. Root route (reduces scary 404 logs)
+app.get('/', (req, res) => {
+  res.json({
+    message: 'Gemstone API is running 🚀',
+  });
+});
+
+// 6. Mount Base Routes
 app.use('/api', baseRouter);
 
-// 6. Catch-all for Unhandled Routes
+// 7. Catch-all for Unhandled Routes
 app.all('*', (req, res, next) => {
   next(new AppError(`Can't find ${req.originalUrl} on this server!`, 404));
 });
