@@ -1211,3 +1211,9 @@
 [2026-06-12 14:31:42:3142] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3286 - 3.704 ms[39m
 [2026-06-12 14:31:54:3154] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 304 - - 6.373 ms[39m
 [2026-06-12 14:31:54:3154] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 304 - - 3.180 ms[39m
+[2026-06-12 15:09:01:91] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 15:09:26:926] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 200 20025 - 35.628 ms[39m
+[2026-06-12 15:09:26:926] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 304 - - 8.280 ms[39m
+[2026-06-12 15:09:51:951] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 304 - - 11.875 ms[39m
+[2026-06-12 15:09:51:951] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 304 - - 5.519 ms[39m
+[2026-06-12 15:29:43:2943] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m

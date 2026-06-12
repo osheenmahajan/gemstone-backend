@@ -23,6 +23,14 @@ export const getSequelize = () => {
       acquire: 30000,
       idle: 10000,
     },
+    dialectOptions: {
+      // Required for some MySQL-compatible providers (e.g., TiDB Serverless)
+      // that prohibit insecure transport.
+      ssl: {
+        require: true,
+        rejectUnauthorized: false,
+      },
+    },
     define: {
       freezeTableName: true,
       timestamps: true,
