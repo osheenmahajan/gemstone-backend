@@ -1,0 +1,1213 @@
+[2026-06-11 14:13:30:1330] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:13:30:1330] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:14:16:1416] [[35mhttp[39m]: [35m::1 - GET /api/health 200 138 - 5.074 ms[39m
+[2026-06-11 14:17:06:176] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:17:06:176] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:17:10:1710] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:17:10:1710] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:17:17:1717] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:17:17:1717] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:17:18:1718] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:17:18:1718] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:17:21:1721] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:17:21:1721] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:17:24:1724] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:17:24:1724] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:17:26:1726] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:17:26:1726] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:17:28:1728] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:17:28:1728] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:17:36:1736] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:17:36:1736] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:17:37:1737] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:17:37:1737] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:17:39:1739] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:17:39:1739] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:17:42:1742] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:17:42:1742] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:17:49:1749] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:17:49:1749] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:17:52:1752] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:17:52:1752] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:17:54:1754] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:17:54:1754] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:17:56:1756] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:17:56:1756] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:17:59:1759] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:17:59:1759] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:01:181] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:01:181] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:03:183] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:03:183] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:07:187] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:07:187] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:09:189] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:09:189] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:10:1810] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:10:1810] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:13:1813] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:13:1813] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:15:1815] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:15:1815] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:17:1817] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:17:1817] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:19:1819] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:19:1819] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:21:1821] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:21:1821] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:23:1823] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:23:1823] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:26:1826] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:26:1826] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:48:1848] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:48:1848] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:52:1852] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:52:1852] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:54:1854] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:54:1854] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:56:1856] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:56:1856] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:58:1858] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:58:1858] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:18:59:1859] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:18:59:1859] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:19:05:195] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:19:05:195] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:19:07:197] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:19:07:197] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:19:09:199] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:19:09:199] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:19:11:1911] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:19:11:1911] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:19:13:1913] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:19:13:1913] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:19:59:1959] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:19:59:1959] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:20:14:2014] [[31merror[39m]: [31m401 - You are not logged in. Please log in to get access. - /api/recommendations/history/latest - GET - ::1[39m
+[31mStack: Error: You are not logged in. Please log in to get access.[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:21:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at router.handle (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:47:12)[39m
+[2026-06-11 14:20:14:2014] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history/latest 401 1685 - 5.959 ms[39m
+[2026-06-11 14:23:17:2317] [[35mhttp[39m]: [35m::1 - GET /api/health 200 139 - 0.929 ms[39m
+[2026-06-11 14:26:02:262] [[35mhttp[39m]: [35m::1 - GET /api/health 200 139 - 0.359 ms[39m
+[2026-06-11 14:31:44:3144] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:31:44:3144] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:31:47:3147] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:31:47:3147] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:32:14:3214] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:32:14:3214] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:32:19:3219] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:32:19:3219] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:32:25:3225] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:32:25:3225] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:32:29:3229] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:32:29:3229] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:32:35:3235] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:32:35:3235] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:38:50:3850] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:38:50:3850] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-11 14:39:48:3948] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:40:07:407] [[35mhttp[39m]: [35m::1 - GET /api/health 200 138 - 4.195 ms[39m
+[2026-06-11 14:40:34:4034] [[31merror[39m]: [31m401 - You are not logged in. Please log in to get access. - /api/users/me - GET - ::1[39m
+[31mStack: Error: You are not logged in. Please log in to get access.[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:21:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at router.handle (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:47:12)[39m
+[2026-06-11 14:40:34:4034] [[35mhttp[39m]: [35m::1 - GET /api/users/me 401 1685 - 2.284 ms[39m
+[2026-06-11 14:40:36:4036] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 200 41 - 32.852 ms[39m
+[2026-06-11 14:40:38:4038] [[31merror[39m]: [31m401 - You are not logged in. Please log in to get access. - /api/admin/stats - GET - ::1[39m
+[31mStack: Error: You are not logged in. Please log in to get access.[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:21:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at router.handle (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:47:12)[39m
+[2026-06-11 14:40:38:4038] [[35mhttp[39m]: [35m::1 - GET /api/admin/stats 401 1685 - 1.520 ms[39m
+[2026-06-11 14:41:30:4130] [[35mhttp[39m]: [35m::1 - GET /api/health 200 139 - 0.373 ms[39m
+[2026-06-11 14:49:52:4952] [[32minfo[39m]: [32mMongoDB connected successfully[39m
+[2026-06-11 14:50:21:5021] [[35mhttp[39m]: [35m::1 - GET /api/health 200 139 - 0.431 ms[39m
+[2026-06-11 14:50:40:5040] [[31merror[39m]: [31m404 - Can't find /api/auth/health on this server! - /api/auth/health - GET - ::1[39m
+[31mStack: Error: Can't find /api/auth/health on this server![39m
+[31m    at file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/app.js:33:8[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[2026-06-11 14:50:40:5040] [[35mhttp[39m]: [35m::1 - GET /api/auth/health 404 1585 - 1.693 ms[39m
+[2026-06-11 14:50:42:5042] [[31merror[39m]: [31m401 - You are not logged in. Please log in to get access. - /api/users/me - GET - ::1[39m
+[31mStack: Error: You are not logged in. Please log in to get access.[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:21:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at router.handle (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:47:12)[39m
+[2026-06-11 14:50:42:5042] [[35mhttp[39m]: [35m::1 - GET /api/users/me 401 1685 - 1.326 ms[39m
+[2026-06-11 14:50:44:5044] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 200 41 - 4.337 ms[39m
+[2026-06-11 14:52:13:5213] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 200 41 - 3.318 ms[39m
+[2026-06-11 14:52:49:5249] [[31merror[39m]: [31m401 - You are not logged in. Please log in to get access. - /api/recommendations/history/latest - GET - ::1[39m
+[31mStack: Error: You are not logged in. Please log in to get access.[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:21:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at router.handle (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:47:12)[39m
+[2026-06-11 14:52:49:5249] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history/latest 401 1685 - 1.423 ms[39m
+[2026-06-11 14:53:10:5310] [[31merror[39m]: [31m401 - You are not logged in. Please log in to get access. - /api/recommendations/history/latest - GET - ::1[39m
+[31mStack: Error: You are not logged in. Please log in to get access.[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:21:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at router.handle (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:47:12)[39m
+[2026-06-11 14:53:10:5310] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history/latest 401 1685 - 2.108 ms[39m
+[2026-06-11 14:53:39:5339] [[31merror[39m]: [31m401 - Invalid token. Please log in again. - /api/recommendations/history/latest - GET - ::1[39m
+[31mStack: Error: Invalid token. Please log in again.[39m
+[31m    at file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:34:11[39m
+[31m    at module.exports [as verify] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\jsonwebtoken\verify.js:70:12)[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:26:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[2026-06-11 14:53:39:5339] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history/latest 401 1644 - 2.467 ms[39m
+[2026-06-11 14:54:04:544] [[31merror[39m]: [31m401 - You are not logged in. Please log in to get access. - /api/users/me - GET - ::1[39m
+[31mStack: Error: You are not logged in. Please log in to get access.[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:21:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at router.handle (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:47:12)[39m
+[2026-06-11 14:54:04:544] [[35mhttp[39m]: [35m::1 - GET /api/users/me 401 1685 - 1.248 ms[39m
+[2026-06-11 14:56:00:560] [[35mhttp[39m]: [35m::1 - GET /api/health 200 140 - 0.461 ms[39m
+[2026-06-11 14:56:26:5626] [[35mhttp[39m]: [35m::1 - GET /api/health 200 140 - 0.305 ms[39m
+[2026-06-11 14:59:29:5929] [[35mhttp[39m]: [35m::1 - GET /api/health 200 140 - 0.421 ms[39m
+[2026-06-11 15:01:24:124] [[35mhttp[39m]: [35m::1 - POST /api/auth/register 201 320 - 252.737 ms[39m
+[2026-06-11 15:01:25:125] [[35mhttp[39m]: [35m::1 - POST /api/auth/login 200 320 - 161.462 ms[39m
+[2026-06-11 15:01:25:125] [[35mhttp[39m]: [35m::1 - GET /api/users/me 200 57 - 2.032 ms[39m
+[2026-06-11 15:01:52:152] [[35mhttp[39m]: [35m::1 - POST /api/auth/register 201 320 - 147.728 ms[39m
+[2026-06-11 15:01:52:152] [[35mhttp[39m]: [35m::1 - POST /api/auth/login 200 320 - 147.534 ms[39m
+[2026-06-11 15:01:52:152] [[31merror[39m]: [31m404 - Can't find /api/recommendations/generate on this server! - /api/recommendations/generate - POST - ::1[39m
+[31mStack: Error: Can't find /api/recommendations/generate on this server![39m
+[31m    at file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/app.js:33:8[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[2026-06-11 15:01:52:152] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/generate 404 1601 - 0.987 ms[39m
+[2026-06-11 15:01:52:152] [[31merror[39m]: [31m404 - Can't find /api/recommendations/history on this server! - /api/recommendations/history - GET - ::1[39m
+[31mStack: Error: Can't find /api/recommendations/history on this server![39m
+[31m    at file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/app.js:33:8[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[2026-06-11 15:01:52:152] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history 404 1609 - 1.013 ms[39m
+[2026-06-11 15:02:57:257] [[35mhttp[39m]: [35m::1 - POST /api/auth/register 201 320 - 195.118 ms[39m
+[2026-06-11 15:02:57:257] [[35mhttp[39m]: [35m::1 - POST /api/auth/login 200 320 - 178.149 ms[39m
+[2026-06-11 15:02:57:257] [[31merror[39m]: [31m404 - No gemstones available - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: No gemstones available[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:50:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-11 15:02:57:257] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 404 330 - 14.752 ms[39m
+[2026-06-11 15:02:57:257] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history/latest 200 37 - 6.802 ms[39m
+[2026-06-11 15:03:06:36] [[33mwarn[39m]: [33mMongoDB connection disconnected[39m
+[2026-06-11 15:03:51:351] [[35mhttp[39m]: [35m::1 - GET /api/health 200 140 - 0.329 ms[39m
+[2026-06-11 17:01:31:131] [[33mwarn[39m]: [33mMongoDB connection disconnected[39m
+[2026-06-12 00:20:48:2048] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 00:26:20:2620] [[31merror[39m]: [31m404 - Can't find / on this server! - / - GET - ::1[39m
+[31mStack: Error: Can't find / on this server![39m
+[31m    at file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/app.js:34:8[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[2026-06-12 00:26:20:2620] [[35mhttp[39m]: [35m::1 - GET / 404 1555 - 4.563 ms[39m
+[2026-06-12 00:29:23:2923] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 00:29:33:2933] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 00:29:49:2949] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 00:41:59:4159] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 00:42:22:4222] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 00:42:30:4230] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 00:54:04:544] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 00:59:13:5913] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 00:59:16:5916] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 00:59:31:5931] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:00:20:020] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:04:12:412] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:04:32:432] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:11:11:1111] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:11:52:1152] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:11:52:1152] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:11:54:1154] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:11:54:1154] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:11:57:1157] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:11:57:1157] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:11:59:1159] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:12:00:120] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:12:02:122] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:12:02:122] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:12:15:1215] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:12:15:1215] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:12:21:1221] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:12:21:1221] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:12:39:1239] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:12:40:1240] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:15:27:1527] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:15:27:1527] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:15:42:1542] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:15:42:1542] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:18:33:1833] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:18:35:1835] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:18:40:1840] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:34:18:3418] [[31merror[39m]: [31m500 - User.findOne is not a function - /api/auth/register - POST - ::1[39m
+[31mStack: TypeError: User.findOne is not a function[39m
+[31m    at register (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/authController.js:24:33)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/validation.middleware.js:16:14[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:34:18:3418] [[35mhttp[39m]: [35m::1 - POST /api/auth/register 500 796 - 13.772 ms[39m
+[2026-06-12 01:39:02:392] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:39:20:3920] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:39:44:3944] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:39:45:3945] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:40:27:4027] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 01:41:16:4116] [[31merror[39m]: [31m500 - Table 'gemstone_db.users' doesn't exist - /api/auth/register - POST - ::1[39m
+[31mStack: Error[39m
+[31m    at Query.run (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\dialects\mysql\query.js:52:25)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\sequelize.js:315:28[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async MySQLQueryInterface.select (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)[39m
+[31m    at async User.findAll (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\model.js:1140:21)[39m
+[31m    at async User.findOne (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\model.js:1240:12)[39m
+[31m    at async register (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/authController.js:24:22)[39m
+[2026-06-12 01:41:16:4116] [[35mhttp[39m]: [35m::1 - POST /api/auth/register 500 1125 - 66.112 ms[39m
+[2026-06-12 01:41:52:4152] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:42:05:425] [[35mhttp[39m]: [35m::1 - POST /api/auth/register 201 354 - 195.169 ms[39m
+[2026-06-12 01:42:56:4256] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:43:12:4312] [[35mhttp[39m]: [35m::1 - POST /api/auth/register 201 362 - 150.365 ms[39m
+[2026-06-12 01:45:47:4547] [[35mhttp[39m]: [35m::1 - POST /api/auth/register 201 403 - 146.459 ms[39m
+[2026-06-12 01:45:52:4552] [[31merror[39m]: [31m404 - No gemstones available - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: No gemstones available[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:55:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:45:52:4552] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 404 330 - 13.289 ms[39m
+[2026-06-12 01:48:56:4856] [[31merror[39m]: [31m404 - No gemstones available - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: No gemstones available[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:55:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:48:56:4856] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 404 330 - 9.631 ms[39m
+[2026-06-12 01:48:57:4857] [[31merror[39m]: [31m404 - No gemstones available - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: No gemstones available[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:55:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:48:57:4857] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 404 330 - 3.813 ms[39m
+[2026-06-12 01:59:23:5923] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 1235 - 46.294 ms[39m
+[2026-06-12 02:03:54:354] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 1267 - 22.782 ms[39m
+[2026-06-12 02:08:18:818] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:08:20:820] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:08:31:831] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:08:33:833] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:08:53:853] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:08:59:859] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:09:27:927] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:09:34:934] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:09:43:943] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:09:51:951] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:10:00:100] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 200 2416 - 9.269 ms[39m
+[2026-06-12 02:10:11:1011] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 2458 - 15.669 ms[39m
+[2026-06-12 02:10:49:1049] [[31merror[39m]: [31m500 - Cannot add or update a child row: a foreign key constraint fails (`gemstone_db`.`recommendations`, CONSTRAINT `recommendations_ibfk_1` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error[39m
+[31m    at Query.run (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\dialects\mysql\query.js:52:25)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\sequelize.js:315:28[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async MySQLQueryInterface.insert (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)[39m
+[31m    at async model.save (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\model.js:2490:35)[39m
+[31m    at async Recommendation.create (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\model.js:1362:12)[39m
+[31m    at async recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:79:17)[39m
+[2026-06-12 02:10:49:1049] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 500 1324 - 30.742 ms[39m
+[2026-06-12 02:21:43:2143] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:21:47:2147] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:21:57:2157] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:22:00:220] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:22:08:228] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:22:10:2210] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:22:22:2222] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 02:22:44:2244] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:22:47:2247] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:22:54:2254] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:23:05:235] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 02:23:08:238] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:23:26:2326] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 02:24:17:2417] [[31merror[39m]: [31m401 - Invalid token. Please log in again. - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: Invalid token. Please log in again.[39m
+[31m    at file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:34:11[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\jsonwebtoken\verify.js:171:14[39m
+[31m    at getSecret (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\jsonwebtoken\verify.js:97:14)[39m
+[31m    at module.exports [as verify] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\jsonwebtoken\verify.js:101:10)[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:26:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[2026-06-12 02:24:17:2417] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 401 1611 - 11.379 ms[39m
+[2026-06-12 02:24:25:2425] [[35mhttp[39m]: [35m::1 - POST /api/auth/register 201 367 - 186.394 ms[39m
+[2026-06-12 02:24:37:2437] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 2458 - 46.081 ms[39m
+[2026-06-12 02:27:56:2756] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:28:22:2822] [[31merror[39m]: [31m404 - User with ID 3 does not exist in database - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: User with ID 3 does not exist in database[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:50:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:28:22:2822] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 404 368 - 9.433 ms[39m
+[2026-06-12 02:29:51:2951] [[31merror[39m]: [31m404 - User with ID 3 does not exist in database - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: User with ID 3 does not exist in database[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:50:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:29:51:2951] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 404 368 - 10.375 ms[39m
+[2026-06-12 02:29:51:2951] [[31merror[39m]: [31m404 - User with ID 3 does not exist in database - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: User with ID 3 does not exist in database[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:50:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:29:51:2951] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 404 368 - 4.192 ms[39m
+[2026-06-12 02:29:52:2952] [[31merror[39m]: [31m404 - User with ID 3 does not exist in database - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: User with ID 3 does not exist in database[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:50:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:29:52:2952] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 404 368 - 4.479 ms[39m
+[2026-06-12 02:29:52:2952] [[31merror[39m]: [31m404 - User with ID 3 does not exist in database - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: User with ID 3 does not exist in database[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:50:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:29:52:2952] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 404 368 - 4.635 ms[39m
+[2026-06-12 02:29:52:2952] [[31merror[39m]: [31m404 - User with ID 3 does not exist in database - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: User with ID 3 does not exist in database[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:50:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:29:52:2952] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 404 368 - 4.723 ms[39m
+[2026-06-12 02:32:24:3224] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:32:27:3227] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:32:42:3242] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 02:34:38:3438] [[31merror[39m]: [31m404 - User with ID 3 does not exist in database - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: User with ID 3 does not exist in database[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:58:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:34:38:3438] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 404 368 - 34.566 ms[39m
+[2026-06-12 02:34:47:3447] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 13:12:20:1220] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 13:14:48:1448] [[35mhttp[39m]: [35m::1 - POST /api/auth/register 201 352 - 318.710 ms[39m
+[2026-06-12 13:15:24:1524] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 1570 - 75.882 ms[39m
+[2026-06-12 13:16:28:1628] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 1570 - 45.190 ms[39m
+[2026-06-12 13:19:17:1917] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 1603 - 35.404 ms[39m
+[2026-06-12 13:22:23:2223] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 1617 - 36.392 ms[39m
+[2026-06-12 13:25:25:2525] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 13:27:57:2757] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 13:29:54:2954] [[31merror[39m]: [31m401 - Invalid credentials - /api/auth/login - POST - ::1[39m
+[31mStack: Error: Invalid credentials[39m
+[31m    at login (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/authController.js:72:28)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 13:29:54:2954] [[35mhttp[39m]: [35m::1 - POST /api/auth/login 401 310 - 32.235 ms[39m
+[2026-06-12 13:30:20:3020] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 6939 - 54.802 ms[39m
+[2026-06-12 13:30:20:3020] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 304 - - 27.868 ms[39m
+[2026-06-12 13:30:22:3022] [[35mhttp[39m]: [35m::1 - PUT /api/users/me 200 242 - 41.651 ms[39m
+[2026-06-12 13:30:24:3024] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 304 - - 19.486 ms[39m
+[2026-06-12 13:30:24:3024] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 304 - - 15.845 ms[39m
+[2026-06-12 13:30:30:3030] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 200 3408 - 6.138 ms[39m
+[2026-06-12 13:30:30:3030] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 304 - - 4.976 ms[39m
+[2026-06-12 13:30:38:3038] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 304 - - 5.885 ms[39m
+[2026-06-12 13:30:38:3038] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 304 - - 4.067 ms[39m
+[2026-06-12 13:30:44:3044] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 304 - - 20.767 ms[39m
+[2026-06-12 13:30:44:3044] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 304 - - 28.073 ms[39m
+[2026-06-12 13:30:58:3058] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 13:44:50:4450] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 13:45:11:4511] [[31merror[39m]: [31m401 - Invalid token. Please log in again. - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: Invalid token. Please log in again.[39m
+[31m    at file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:34:11[39m
+[31m    at module.exports [as verify] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\jsonwebtoken\verify.js:70:12)[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:26:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[2026-06-12 13:45:11:4511] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 401 1644 - 6.946 ms[39m
+[2026-06-12 13:45:35:4535] [[35mhttp[39m]: [35m::1 - POST /api/auth/register 201 360 - 195.321 ms[39m
+[2026-06-12 13:46:01:461] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3310 - 53.464 ms[39m
+[2026-06-12 13:46:01:461] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3204 - 14.380 ms[39m
+[2026-06-12 13:46:01:461] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3214 - 13.355 ms[39m
+[2026-06-12 13:46:01:461] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3280 - 13.480 ms[39m
+[2026-06-12 13:46:01:461] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3315 - 13.131 ms[39m
+[2026-06-12 13:46:01:461] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3312 - 14.211 ms[39m
+[2026-06-12 13:47:03:473] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3340 - 23.539 ms[39m
+[2026-06-12 13:47:03:473] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3217 - 11.532 ms[39m
+[2026-06-12 13:47:03:473] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3200 - 11.885 ms[39m
+[2026-06-12 13:47:03:473] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3345 - 11.357 ms[39m
+[2026-06-12 13:47:03:473] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3194 - 11.808 ms[39m
+[2026-06-12 13:47:03:473] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3342 - 10.463 ms[39m
+[2026-06-12 13:49:13:4913] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3159 - 78.280 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3200 - 19.132 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3240 - 14.227 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3262 - 13.100 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3234 - 13.445 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3197 - 12.518 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3246 - 11.638 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3246 - 11.135 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3240 - 11.625 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3249 - 11.463 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3340 - 10.894 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3291 - 10.621 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3245 - 12.393 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3209 - 10.803 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3301 - 9.893 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3346 - 10.330 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3217 - 12.220 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3217 - 11.054 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3302 - 10.482 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3271 - 10.467 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3224 - 10.732 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3199 - 10.543 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3308 - 9.397 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3308 - 9.787 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3200 - 8.681 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3239 - 10.054 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3299 - 11.283 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3258 - 11.208 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3177 - 11.004 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3178 - 10.611 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3304 - 10.040 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3305 - 10.901 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3141 - 9.397 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3148 - 9.484 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3143 - 10.410 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3223 - 10.998 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3198 - 10.488 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3198 - 9.474 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3185 - 11.494 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3149 - 9.370 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3200 - 10.598 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3185 - 10.776 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3187 - 10.277 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3223 - 9.911 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3253 - 9.690 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3186 - 10.621 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3235 - 13.737 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3193 - 10.543 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3181 - 9.249 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3204 - 10.660 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3277 - 9.595 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3259 - 10.210 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3199 - 9.519 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3169 - 12.067 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3285 - 10.294 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3283 - 10.500 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3183 - 10.204 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3220 - 9.113 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3272 - 9.479 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3321 - 10.010 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3252 - 10.057 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3246 - 10.381 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3278 - 9.179 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3278 - 9.767 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3158 - 10.406 ms[39m
+[2026-06-12 13:49:48:4948] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3228 - 10.434 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3220 - 10.654 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3290 - 11.598 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3237 - 12.200 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3224 - 11.342 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3274 - 11.299 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3226 - 11.962 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3204 - 11.819 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3212 - 10.484 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3292 - 11.117 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3333 - 11.613 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3238 - 11.362 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3239 - 10.200 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3265 - 10.711 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3298 - 12.351 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3192 - 9.813 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3233 - 8.617 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3231 - 9.553 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3248 - 10.423 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3251 - 9.176 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3223 - 10.791 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3247 - 9.548 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3238 - 9.428 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3151 - 9.831 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3250 - 9.599 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3277 - 13.090 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3306 - 9.368 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3201 - 9.437 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3188 - 9.951 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3283 - 10.196 ms[39m
+[2026-06-12 13:49:49:4949] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3283 - 10.176 ms[39m
+[2026-06-12 13:53:04:534] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 13:54:14:5414] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 13:54:14:5414] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 13:56:39:5639] [[32minfo[39m]: [32mServer is running in development mode on port 5000[39m
+[2026-06-12 13:57:04:574] [[35mhttp[39m]: [35m::1 - PUT /api/users/me 200 241 - 60.491 ms[39m
+[2026-06-12 13:57:07:577] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3338 - 69.377 ms[39m
+[2026-06-12 13:58:56:5856] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 200 19660 - 17.107 ms[39m
+[2026-06-12 13:58:56:5856] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 304 - - 4.631 ms[39m
+[2026-06-12 14:11:04:114] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 200 19832 - 9.202 ms[39m
+[2026-06-12 14:11:04:114] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 304 - - 4.643 ms[39m
+[2026-06-12 14:22:11:2211] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 200 19945 - 9.078 ms[39m
+[2026-06-12 14:22:11:2211] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 304 - - 3.621 ms[39m
+[2026-06-12 14:28:13:2813] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 200 20025 - 9.410 ms[39m
+[2026-06-12 14:28:13:2813] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 304 - - 4.321 ms[39m
+[2026-06-12 14:28:26:2826] [[35mhttp[39m]: [35m::1 - GET /api/gemstones?q=Amazonite 200 692 - 17.363 ms[39m
+[2026-06-12 14:28:39:2839] [[35mhttp[39m]: [35m::1 - GET /api/gemstones?q=Sunstone 200 776 - 9.579 ms[39m
+[2026-06-12 14:28:44:2844] [[35mhttp[39m]: [35m::1 - GET /api/gemstones?q=hello 200 41 - 3.787 ms[39m
+[2026-06-12 14:28:50:2850] [[35mhttp[39m]: [35m::1 - GET /api/gemstones?q=turqouise 200 41 - 3.495 ms[39m
+[2026-06-12 14:28:54:2854] [[35mhttp[39m]: [35m::1 - GET /api/gemstones?q=moonstone 200 697 - 2.982 ms[39m
+[2026-06-12 14:28:57:2857] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 304 - - 4.201 ms[39m
+[2026-06-12 14:28:57:2857] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 304 - - 3.647 ms[39m
+[2026-06-12 14:29:06:296] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3419 - 30.633 ms[39m
+[2026-06-12 14:29:13:2913] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3263 - 20.776 ms[39m
+[2026-06-12 14:29:20:2920] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3461 - 26.195 ms[39m
+[2026-06-12 14:29:24:2924] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3371 - 19.835 ms[39m
+[2026-06-12 14:29:28:2928] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3371 - 4.514 ms[39m
+[2026-06-12 14:29:32:2932] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3388 - 25.162 ms[39m
+[2026-06-12 14:29:41:2941] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3286 - 19.170 ms[39m
+[2026-06-12 14:29:59:2959] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16829 - 32.537 ms[39m
+[2026-06-12 14:29:59:2959] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 304 - - 12.911 ms[39m
+[2026-06-12 14:30:08:308] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/117 200 51 - 11.940 ms[39m
+[2026-06-12 14:30:08:308] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16970 - 11.947 ms[39m
+[2026-06-12 14:30:10:3010] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/116 200 51 - 11.284 ms[39m
+[2026-06-12 14:30:10:3010] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 17044 - 13.532 ms[39m
+[2026-06-12 14:30:14:3014] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/115 200 51 - 11.504 ms[39m
+[2026-06-12 14:30:14:3014] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 17098 - 10.263 ms[39m
+[2026-06-12 14:30:15:3015] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/114 200 51 - 4.762 ms[39m
+[2026-06-12 14:30:15:3015] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 17058 - 10.763 ms[39m
+[2026-06-12 14:30:15:3015] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/113 200 51 - 11.134 ms[39m
+[2026-06-12 14:30:15:3015] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 17098 - 9.494 ms[39m
+[2026-06-12 14:30:15:3015] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/112 200 51 - 5.157 ms[39m
+[2026-06-12 14:30:15:3015] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16960 - 9.674 ms[39m
+[2026-06-12 14:30:16:3016] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/111 200 51 - 11.106 ms[39m
+[2026-06-12 14:30:16:3016] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16939 - 10.294 ms[39m
+[2026-06-12 14:30:16:3016] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/110 200 51 - 4.211 ms[39m
+[2026-06-12 14:30:16:3016] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16932 - 10.136 ms[39m
+[2026-06-12 14:30:16:3016] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/109 200 51 - 4.683 ms[39m
+[2026-06-12 14:30:16:3016] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16774 - 11.922 ms[39m
+[2026-06-12 14:30:16:3016] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/108 200 51 - 4.987 ms[39m
+[2026-06-12 14:30:17:3017] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16671 - 10.785 ms[39m
+[2026-06-12 14:30:17:3017] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/107 200 51 - 5.688 ms[39m
+[2026-06-12 14:30:17:3017] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16653 - 13.896 ms[39m
+[2026-06-12 14:30:17:3017] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/106 200 51 - 5.545 ms[39m
+[2026-06-12 14:30:17:3017] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16467 - 14.575 ms[39m
+[2026-06-12 14:30:17:3017] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/105 200 51 - 4.878 ms[39m
+[2026-06-12 14:30:17:3017] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16431 - 10.785 ms[39m
+[2026-06-12 14:30:17:3017] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/104 200 51 - 4.775 ms[39m
+[2026-06-12 14:30:17:3017] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16445 - 13.148 ms[39m
+[2026-06-12 14:30:17:3017] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/103 200 51 - 4.495 ms[39m
+[2026-06-12 14:30:17:3017] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16563 - 10.325 ms[39m
+[2026-06-12 14:30:17:3017] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/102 200 51 - 5.375 ms[39m
+[2026-06-12 14:30:17:3017] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16554 - 11.984 ms[39m
+[2026-06-12 14:30:18:3018] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/101 200 51 - 5.508 ms[39m
+[2026-06-12 14:30:18:3018] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16566 - 11.609 ms[39m
+[2026-06-12 14:30:18:3018] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/100 200 51 - 5.776 ms[39m
+[2026-06-12 14:30:18:3018] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16483 - 12.826 ms[39m
+[2026-06-12 14:30:18:3018] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/99 200 51 - 5.103 ms[39m
+[2026-06-12 14:30:18:3018] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16591 - 10.494 ms[39m
+[2026-06-12 14:30:18:3018] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/98 200 51 - 4.307 ms[39m
+[2026-06-12 14:30:18:3018] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16642 - 9.100 ms[39m
+[2026-06-12 14:30:18:3018] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/97 200 51 - 3.998 ms[39m
+[2026-06-12 14:30:19:3019] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16683 - 10.726 ms[39m
+[2026-06-12 14:30:19:3019] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/96 200 51 - 4.810 ms[39m
+[2026-06-12 14:30:19:3019] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16619 - 9.336 ms[39m
+[2026-06-12 14:30:19:3019] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/95 200 51 - 4.685 ms[39m
+[2026-06-12 14:30:19:3019] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16713 - 9.059 ms[39m
+[2026-06-12 14:30:19:3019] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/94 200 51 - 4.894 ms[39m
+[2026-06-12 14:30:19:3019] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16706 - 10.227 ms[39m
+[2026-06-12 14:30:19:3019] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/93 200 51 - 5.165 ms[39m
+[2026-06-12 14:30:19:3019] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16568 - 11.420 ms[39m
+[2026-06-12 14:30:19:3019] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/92 200 51 - 5.557 ms[39m
+[2026-06-12 14:30:19:3019] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16531 - 10.182 ms[39m
+[2026-06-12 14:30:20:3020] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/91 200 51 - 4.843 ms[39m
+[2026-06-12 14:30:20:3020] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16628 - 9.773 ms[39m
+[2026-06-12 14:30:20:3020] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/90 200 51 - 4.398 ms[39m
+[2026-06-12 14:30:20:3020] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16568 - 9.947 ms[39m
+[2026-06-12 14:30:20:3020] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/89 200 51 - 4.669 ms[39m
+[2026-06-12 14:30:20:3020] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16523 - 8.913 ms[39m
+[2026-06-12 14:30:20:3020] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/88 200 51 - 4.173 ms[39m
+[2026-06-12 14:30:20:3020] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16515 - 9.877 ms[39m
+[2026-06-12 14:30:20:3020] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/87 200 51 - 4.780 ms[39m
+[2026-06-12 14:30:20:3020] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16610 - 13.056 ms[39m
+[2026-06-12 14:30:20:3020] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/86 200 51 - 4.818 ms[39m
+[2026-06-12 14:30:20:3020] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16603 - 13.337 ms[39m
+[2026-06-12 14:30:21:3021] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/85 200 51 - 7.224 ms[39m
+[2026-06-12 14:30:21:3021] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16527 - 9.047 ms[39m
+[2026-06-12 14:30:21:3021] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/84 200 51 - 4.645 ms[39m
+[2026-06-12 14:30:21:3021] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16392 - 9.890 ms[39m
+[2026-06-12 14:30:21:3021] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/83 200 51 - 4.186 ms[39m
+[2026-06-12 14:30:21:3021] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16619 - 9.201 ms[39m
+[2026-06-12 14:30:21:3021] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/82 200 51 - 4.540 ms[39m
+[2026-06-12 14:30:21:3021] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16712 - 8.967 ms[39m
+[2026-06-12 14:30:21:3021] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/81 200 51 - 3.692 ms[39m
+[2026-06-12 14:30:21:3021] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16809 - 9.593 ms[39m
+[2026-06-12 14:30:22:3022] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/80 200 51 - 4.483 ms[39m
+[2026-06-12 14:30:22:3022] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16949 - 11.326 ms[39m
+[2026-06-12 14:30:22:3022] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/79 200 51 - 4.688 ms[39m
+[2026-06-12 14:30:22:3022] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 17237 - 13.524 ms[39m
+[2026-06-12 14:30:22:3022] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/78 200 51 - 4.389 ms[39m
+[2026-06-12 14:30:22:3022] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 17230 - 8.543 ms[39m
+[2026-06-12 14:30:22:3022] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/77 200 51 - 4.381 ms[39m
+[2026-06-12 14:30:22:3022] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 17049 - 9.173 ms[39m
+[2026-06-12 14:30:22:3022] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/76 200 51 - 4.688 ms[39m
+[2026-06-12 14:30:22:3022] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16911 - 9.239 ms[39m
+[2026-06-12 14:30:22:3022] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/75 200 51 - 4.961 ms[39m
+[2026-06-12 14:30:22:3022] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16871 - 8.606 ms[39m
+[2026-06-12 14:30:23:3023] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/74 200 51 - 5.336 ms[39m
+[2026-06-12 14:30:23:3023] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16729 - 8.870 ms[39m
+[2026-06-12 14:30:23:3023] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/73 200 51 - 4.551 ms[39m
+[2026-06-12 14:30:23:3023] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16634 - 11.870 ms[39m
+[2026-06-12 14:30:23:3023] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/72 200 51 - 4.803 ms[39m
+[2026-06-12 14:30:23:3023] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16702 - 9.531 ms[39m
+[2026-06-12 14:30:23:3023] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/71 200 51 - 4.520 ms[39m
+[2026-06-12 14:30:23:3023] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16787 - 9.666 ms[39m
+[2026-06-12 14:30:23:3023] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/70 200 51 - 4.841 ms[39m
+[2026-06-12 14:30:23:3023] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16780 - 8.455 ms[39m
+[2026-06-12 14:30:24:3024] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/69 200 51 - 4.116 ms[39m
+[2026-06-12 14:30:24:3024] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16653 - 8.738 ms[39m
+[2026-06-12 14:30:24:3024] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/68 200 51 - 4.553 ms[39m
+[2026-06-12 14:30:24:3024] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16599 - 8.584 ms[39m
+[2026-06-12 14:30:24:3024] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/67 200 51 - 5.056 ms[39m
+[2026-06-12 14:30:24:3024] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16532 - 11.238 ms[39m
+[2026-06-12 14:30:24:3024] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/66 200 51 - 5.112 ms[39m
+[2026-06-12 14:30:24:3024] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16481 - 12.105 ms[39m
+[2026-06-12 14:30:24:3024] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/65 200 51 - 4.639 ms[39m
+[2026-06-12 14:30:24:3024] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16418 - 9.347 ms[39m
+[2026-06-12 14:30:24:3024] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/64 200 51 - 4.538 ms[39m
+[2026-06-12 14:30:24:3024] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16435 - 10.564 ms[39m
+[2026-06-12 14:30:25:3025] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/63 200 51 - 4.314 ms[39m
+[2026-06-12 14:30:25:3025] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16537 - 8.742 ms[39m
+[2026-06-12 14:30:25:3025] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/62 200 51 - 5.202 ms[39m
+[2026-06-12 14:30:25:3025] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16530 - 10.040 ms[39m
+[2026-06-12 14:30:25:3025] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/61 200 51 - 4.108 ms[39m
+[2026-06-12 14:30:25:3025] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16490 - 10.781 ms[39m
+[2026-06-12 14:30:25:3025] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/60 200 51 - 5.043 ms[39m
+[2026-06-12 14:30:25:3025] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16455 - 8.933 ms[39m
+[2026-06-12 14:30:25:3025] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/59 200 51 - 5.055 ms[39m
+[2026-06-12 14:30:25:3025] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16422 - 10.786 ms[39m
+[2026-06-12 14:30:26:3026] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/58 200 51 - 4.275 ms[39m
+[2026-06-12 14:30:26:3026] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16288 - 11.126 ms[39m
+[2026-06-12 14:30:26:3026] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/57 200 51 - 4.251 ms[39m
+[2026-06-12 14:30:26:3026] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16248 - 9.777 ms[39m
+[2026-06-12 14:30:26:3026] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/56 200 51 - 4.890 ms[39m
+[2026-06-12 14:30:26:3026] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16228 - 9.097 ms[39m
+[2026-06-12 14:30:26:3026] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/55 200 51 - 4.348 ms[39m
+[2026-06-12 14:30:26:3026] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16271 - 9.802 ms[39m
+[2026-06-12 14:30:26:3026] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/54 200 51 - 4.614 ms[39m
+[2026-06-12 14:30:26:3026] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16264 - 11.203 ms[39m
+[2026-06-12 14:30:27:3027] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/53 200 51 - 5.478 ms[39m
+[2026-06-12 14:30:27:3027] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16164 - 9.107 ms[39m
+[2026-06-12 14:30:27:3027] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/52 200 51 - 4.704 ms[39m
+[2026-06-12 14:30:27:3027] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16153 - 9.658 ms[39m
+[2026-06-12 14:30:27:3027] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/51 200 51 - 4.796 ms[39m
+[2026-06-12 14:30:27:3027] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16306 - 8.477 ms[39m
+[2026-06-12 14:30:27:3027] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/50 200 51 - 4.553 ms[39m
+[2026-06-12 14:30:27:3027] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16353 - 7.967 ms[39m
+[2026-06-12 14:30:27:3027] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/49 200 51 - 4.542 ms[39m
+[2026-06-12 14:30:27:3027] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16438 - 8.433 ms[39m
+[2026-06-12 14:30:27:3027] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/48 200 51 - 4.488 ms[39m
+[2026-06-12 14:30:28:3028] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16415 - 9.591 ms[39m
+[2026-06-12 14:30:28:3028] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/47 200 51 - 4.839 ms[39m
+[2026-06-12 14:30:28:3028] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16639 - 11.041 ms[39m
+[2026-06-12 14:30:28:3028] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/46 200 51 - 4.542 ms[39m
+[2026-06-12 14:30:28:3028] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16632 - 10.098 ms[39m
+[2026-06-12 14:30:28:3028] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/45 200 51 - 4.097 ms[39m
+[2026-06-12 14:30:28:3028] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16534 - 8.571 ms[39m
+[2026-06-12 14:30:28:3028] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/44 200 51 - 4.469 ms[39m
+[2026-06-12 14:30:28:3028] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16477 - 7.970 ms[39m
+[2026-06-12 14:30:28:3028] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/43 200 51 - 4.741 ms[39m
+[2026-06-12 14:30:28:3028] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16722 - 8.714 ms[39m
+[2026-06-12 14:30:29:3029] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/42 200 51 - 4.157 ms[39m
+[2026-06-12 14:30:29:3029] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16671 - 8.615 ms[39m
+[2026-06-12 14:30:29:3029] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/41 200 51 - 5.237 ms[39m
+[2026-06-12 14:30:29:3029] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16593 - 12.022 ms[39m
+[2026-06-12 14:30:29:3029] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/40 200 51 - 4.240 ms[39m
+[2026-06-12 14:30:29:3029] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16611 - 9.534 ms[39m
+[2026-06-12 14:30:29:3029] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/39 200 51 - 4.997 ms[39m
+[2026-06-12 14:30:29:3029] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16717 - 8.348 ms[39m
+[2026-06-12 14:30:29:3029] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/38 200 51 - 4.816 ms[39m
+[2026-06-12 14:30:29:3029] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16710 - 8.461 ms[39m
+[2026-06-12 14:30:30:3030] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/37 200 51 - 3.832 ms[39m
+[2026-06-12 14:30:30:3030] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16567 - 9.008 ms[39m
+[2026-06-12 14:30:30:3030] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/36 200 51 - 4.471 ms[39m
+[2026-06-12 14:30:30:3030] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16499 - 8.431 ms[39m
+[2026-06-12 14:30:30:3030] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/35 200 51 - 4.844 ms[39m
+[2026-06-12 14:30:30:3030] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16657 - 10.923 ms[39m
+[2026-06-12 14:30:30:3030] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/34 200 51 - 4.667 ms[39m
+[2026-06-12 14:30:30:3030] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16692 - 8.498 ms[39m
+[2026-06-12 14:30:30:3030] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/33 200 51 - 5.278 ms[39m
+[2026-06-12 14:30:30:3030] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16641 - 8.619 ms[39m
+[2026-06-12 14:30:30:3030] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/32 200 51 - 4.288 ms[39m
+[2026-06-12 14:30:30:3030] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16669 - 8.116 ms[39m
+[2026-06-12 14:30:31:3031] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/31 200 51 - 4.798 ms[39m
+[2026-06-12 14:30:31:3031] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16809 - 9.728 ms[39m
+[2026-06-12 14:30:31:3031] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/30 200 51 - 4.308 ms[39m
+[2026-06-12 14:30:31:3031] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16802 - 8.662 ms[39m
+[2026-06-12 14:30:31:3031] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/29 200 51 - 4.961 ms[39m
+[2026-06-12 14:30:31:3031] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16701 - 8.628 ms[39m
+[2026-06-12 14:30:31:3031] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/28 200 51 - 4.832 ms[39m
+[2026-06-12 14:30:31:3031] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16668 - 9.314 ms[39m
+[2026-06-12 14:30:31:3031] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/27 200 51 - 5.305 ms[39m
+[2026-06-12 14:30:31:3031] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16802 - 9.617 ms[39m
+[2026-06-12 14:30:32:3032] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/26 200 51 - 4.841 ms[39m
+[2026-06-12 14:30:32:3032] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16838 - 9.756 ms[39m
+[2026-06-12 14:30:32:3032] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/25 200 51 - 4.623 ms[39m
+[2026-06-12 14:30:32:3032] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16754 - 8.025 ms[39m
+[2026-06-12 14:30:32:3032] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/24 200 51 - 4.553 ms[39m
+[2026-06-12 14:30:32:3032] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16813 - 8.177 ms[39m
+[2026-06-12 14:30:32:3032] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/23 200 51 - 4.513 ms[39m
+[2026-06-12 14:30:32:3032] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16948 - 9.107 ms[39m
+[2026-06-12 14:30:32:3032] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/22 200 51 - 5.674 ms[39m
+[2026-06-12 14:30:32:3032] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16941 - 10.659 ms[39m
+[2026-06-12 14:30:33:3033] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/21 200 51 - 4.214 ms[39m
+[2026-06-12 14:30:33:3033] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16773 - 9.064 ms[39m
+[2026-06-12 14:30:33:3033] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/20 200 51 - 4.811 ms[39m
+[2026-06-12 14:30:33:3033] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16668 - 7.895 ms[39m
+[2026-06-12 14:30:33:3033] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/19 200 51 - 4.597 ms[39m
+[2026-06-12 14:30:33:3033] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16797 - 9.569 ms[39m
+[2026-06-12 14:30:33:3033] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/18 200 51 - 4.657 ms[39m
+[2026-06-12 14:30:33:3033] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16579 - 9.129 ms[39m
+[2026-06-12 14:30:33:3033] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/17 200 51 - 4.603 ms[39m
+[2026-06-12 14:30:33:3033] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16694 - 9.961 ms[39m
+[2026-06-12 14:30:33:3033] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/16 200 51 - 4.566 ms[39m
+[2026-06-12 14:30:33:3033] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16708 - 10.303 ms[39m
+[2026-06-12 14:30:34:3034] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/15 200 51 - 4.259 ms[39m
+[2026-06-12 14:30:34:3034] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16710 - 8.997 ms[39m
+[2026-06-12 14:30:34:3034] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/14 200 51 - 5.170 ms[39m
+[2026-06-12 14:30:34:3034] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16623 - 9.202 ms[39m
+[2026-06-12 14:30:34:3034] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/13 200 51 - 4.918 ms[39m
+[2026-06-12 14:30:34:3034] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16868 - 9.821 ms[39m
+[2026-06-12 14:30:34:3034] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/12 200 51 - 3.969 ms[39m
+[2026-06-12 14:30:34:3034] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16808 - 10.845 ms[39m
+[2026-06-12 14:30:34:3034] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/11 200 51 - 4.015 ms[39m
+[2026-06-12 14:30:34:3034] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16989 - 8.076 ms[39m
+[2026-06-12 14:30:35:3035] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/10 200 51 - 4.509 ms[39m
+[2026-06-12 14:30:35:3035] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 17041 - 7.571 ms[39m
+[2026-06-12 14:30:35:3035] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/9 200 51 - 5.926 ms[39m
+[2026-06-12 14:30:35:3035] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16921 - 11.227 ms[39m
+[2026-06-12 14:30:35:3035] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/8 200 51 - 4.449 ms[39m
+[2026-06-12 14:30:35:3035] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 16832 - 8.015 ms[39m
+[2026-06-12 14:30:35:3035] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/7 200 51 - 3.966 ms[39m
+[2026-06-12 14:30:35:3035] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 13384 - 6.998 ms[39m
+[2026-06-12 14:30:35:3035] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/6 200 51 - 4.071 ms[39m
+[2026-06-12 14:30:35:3035] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 9958 - 5.481 ms[39m
+[2026-06-12 14:30:35:3035] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/5 200 51 - 4.025 ms[39m
+[2026-06-12 14:30:35:3035] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 6683 - 4.442 ms[39m
+[2026-06-12 14:30:36:3036] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/4 200 51 - 4.554 ms[39m
+[2026-06-12 14:30:36:3036] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 3439 - 3.472 ms[39m
+[2026-06-12 14:30:36:3036] [[35mhttp[39m]: [35m::1 - DELETE /api/recommendations/3 200 51 - 4.572 ms[39m
+[2026-06-12 14:30:36:3036] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 78 - 2.889 ms[39m
+[2026-06-12 14:30:41:3041] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3461 - 25.732 ms[39m
+[2026-06-12 14:30:43:3043] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 200 3536 - 3.733 ms[39m
+[2026-06-12 14:30:43:3043] [[35mhttp[39m]: [35m::1 - GET /api/recommendations/history?page=1&limit=5 304 - - 3.974 ms[39m
+[2026-06-12 14:31:00:310] [[35mhttp[39m]: [35m::1 - PUT /api/users/me 200 241 - 15.986 ms[39m
+[2026-06-12 14:31:09:319] [[31merror[39m]: [31m401 - Invalid credentials - /api/auth/login - POST - ::1[39m
+[31mStack: Error: Invalid credentials[39m
+[31m    at login (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/authController.js:72:28)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 14:31:09:319] [[35mhttp[39m]: [35m::1 - POST /api/auth/login 401 310 - 6.042 ms[39m
+[2026-06-12 14:31:23:3123] [[35mhttp[39m]: [35m::1 - POST /api/auth/register 201 400 - 161.961 ms[39m
+[2026-06-12 14:31:25:3125] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3266 - 24.996 ms[39m
+[2026-06-12 14:31:27:3127] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3286 - 22.268 ms[39m
+[2026-06-12 14:31:32:3132] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3286 - 4.240 ms[39m
+[2026-06-12 14:31:37:3137] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3206 - 24.130 ms[39m
+[2026-06-12 14:31:42:3142] [[35mhttp[39m]: [35m::1 - POST /api/recommendations/recommend 200 3286 - 3.704 ms[39m
+[2026-06-12 14:31:54:3154] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 304 - - 6.373 ms[39m
+[2026-06-12 14:31:54:3154] [[35mhttp[39m]: [35m::1 - GET /api/gemstones 304 - - 3.180 ms[39m

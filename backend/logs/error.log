@@ -1,0 +1,633 @@
+[2026-06-11 14:20:14:2014] [[31merror[39m]: [31m401 - You are not logged in. Please log in to get access. - /api/recommendations/history/latest - GET - ::1[39m
+[31mStack: Error: You are not logged in. Please log in to get access.[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:21:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at router.handle (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:47:12)[39m
+[2026-06-11 14:39:48:3948] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:23:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-11 14:40:34:4034] [[31merror[39m]: [31m401 - You are not logged in. Please log in to get access. - /api/users/me - GET - ::1[39m
+[31mStack: Error: You are not logged in. Please log in to get access.[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:21:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at router.handle (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:47:12)[39m
+[2026-06-11 14:40:38:4038] [[31merror[39m]: [31m401 - You are not logged in. Please log in to get access. - /api/admin/stats - GET - ::1[39m
+[31mStack: Error: You are not logged in. Please log in to get access.[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:21:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at router.handle (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:47:12)[39m
+[2026-06-11 14:49:52:4952] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:23:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-11 14:50:40:5040] [[31merror[39m]: [31m404 - Can't find /api/auth/health on this server! - /api/auth/health - GET - ::1[39m
+[31mStack: Error: Can't find /api/auth/health on this server![39m
+[31m    at file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/app.js:33:8[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[2026-06-11 14:50:42:5042] [[31merror[39m]: [31m401 - You are not logged in. Please log in to get access. - /api/users/me - GET - ::1[39m
+[31mStack: Error: You are not logged in. Please log in to get access.[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:21:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at router.handle (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:47:12)[39m
+[2026-06-11 14:52:49:5249] [[31merror[39m]: [31m401 - You are not logged in. Please log in to get access. - /api/recommendations/history/latest - GET - ::1[39m
+[31mStack: Error: You are not logged in. Please log in to get access.[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:21:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at router.handle (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:47:12)[39m
+[2026-06-11 14:53:10:5310] [[31merror[39m]: [31m401 - You are not logged in. Please log in to get access. - /api/recommendations/history/latest - GET - ::1[39m
+[31mStack: Error: You are not logged in. Please log in to get access.[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:21:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at router.handle (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:47:12)[39m
+[2026-06-11 14:53:39:5339] [[31merror[39m]: [31m401 - Invalid token. Please log in again. - /api/recommendations/history/latest - GET - ::1[39m
+[31mStack: Error: Invalid token. Please log in again.[39m
+[31m    at file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:34:11[39m
+[31m    at module.exports [as verify] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\jsonwebtoken\verify.js:70:12)[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:26:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[2026-06-11 14:54:04:544] [[31merror[39m]: [31m401 - You are not logged in. Please log in to get access. - /api/users/me - GET - ::1[39m
+[31mStack: Error: You are not logged in. Please log in to get access.[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:21:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at router.handle (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:47:12)[39m
+[2026-06-11 15:01:52:152] [[31merror[39m]: [31m404 - Can't find /api/recommendations/generate on this server! - /api/recommendations/generate - POST - ::1[39m
+[31mStack: Error: Can't find /api/recommendations/generate on this server![39m
+[31m    at file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/app.js:33:8[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[2026-06-11 15:01:52:152] [[31merror[39m]: [31m404 - Can't find /api/recommendations/history on this server! - /api/recommendations/history - GET - ::1[39m
+[31mStack: Error: Can't find /api/recommendations/history on this server![39m
+[31m    at file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/app.js:33:8[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[2026-06-11 15:02:57:257] [[31merror[39m]: [31m404 - No gemstones available - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: No gemstones available[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:50:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-11 17:01:31:131] [[31merror[39m]: [31mFailed to connect to MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
+[2026-06-12 00:26:20:2620] [[31merror[39m]: [31m404 - Can't find / on this server! - / - GET - ::1[39m
+[31mStack: Error: Can't find / on this server![39m
+[31m    at file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/app.js:34:8[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:145:7)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[2026-06-12 01:11:11:1111] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:11:52:1152] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:11:54:1154] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:11:57:1157] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:12:00:120] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:12:02:122] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:12:15:1215] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:12:21:1221] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:12:40:1240] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:15:27:1527] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:15:42:1542] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:18:35:1835] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:34:18:3418] [[31merror[39m]: [31m500 - User.findOne is not a function - /api/auth/register - POST - ::1[39m
+[31mStack: TypeError: User.findOne is not a function[39m
+[31m    at register (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/authController.js:24:33)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/validation.middleware.js:16:14[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:39:45:3945] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:41:16:4116] [[31merror[39m]: [31m500 - Table 'gemstone_db.users' doesn't exist - /api/auth/register - POST - ::1[39m
+[31mStack: Error[39m
+[31m    at Query.run (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\dialects\mysql\query.js:52:25)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\sequelize.js:315:28[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async MySQLQueryInterface.select (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)[39m
+[31m    at async User.findAll (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\model.js:1140:21)[39m
+[31m    at async User.findOne (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\model.js:1240:12)[39m
+[31m    at async register (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/authController.js:24:22)[39m
+[2026-06-12 01:41:52:4152] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:42:56:4256] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:45:52:4552] [[31merror[39m]: [31m404 - No gemstones available - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: No gemstones available[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:55:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:48:56:4856] [[31merror[39m]: [31m404 - No gemstones available - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: No gemstones available[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:55:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 01:48:57:4857] [[31merror[39m]: [31m404 - No gemstones available - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: No gemstones available[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:55:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:08:18:818] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:08:20:820] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:08:31:831] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:08:33:833] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:08:53:853] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:08:59:859] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:09:27:927] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:09:34:934] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:09:43:943] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:09:51:951] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:10:49:1049] [[31merror[39m]: [31m500 - Cannot add or update a child row: a foreign key constraint fails (`gemstone_db`.`recommendations`, CONSTRAINT `recommendations_ibfk_1` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error[39m
+[31m    at Query.run (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\dialects\mysql\query.js:52:25)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\sequelize.js:315:28[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async MySQLQueryInterface.insert (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)[39m
+[31m    at async model.save (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\model.js:2490:35)[39m
+[31m    at async Recommendation.create (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\sequelize\lib\model.js:1362:12)[39m
+[31m    at async recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:79:17)[39m
+[2026-06-12 02:21:43:2143] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:21:47:2147] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:21:57:2157] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:22:00:220] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:22:08:228] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:22:10:2210] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:22:44:2244] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:22:47:2247] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:22:54:2254] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:23:08:238] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:24:17:2417] [[31merror[39m]: [31m401 - Invalid token. Please log in again. - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: Invalid token. Please log in again.[39m
+[31m    at file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:34:11[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\jsonwebtoken\verify.js:171:14[39m
+[31m    at getSecret (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\jsonwebtoken\verify.js:97:14)[39m
+[31m    at module.exports [as verify] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\jsonwebtoken\verify.js:101:10)[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:26:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[2026-06-12 02:27:56:2756] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:28:22:2822] [[31merror[39m]: [31m404 - User with ID 3 does not exist in database - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: User with ID 3 does not exist in database[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:50:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:29:51:2951] [[31merror[39m]: [31m404 - User with ID 3 does not exist in database - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: User with ID 3 does not exist in database[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:50:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:29:51:2951] [[31merror[39m]: [31m404 - User with ID 3 does not exist in database - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: User with ID 3 does not exist in database[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:50:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:29:52:2952] [[31merror[39m]: [31m404 - User with ID 3 does not exist in database - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: User with ID 3 does not exist in database[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:50:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:29:52:2952] [[31merror[39m]: [31m404 - User with ID 3 does not exist in database - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: User with ID 3 does not exist in database[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:50:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:29:52:2952] [[31merror[39m]: [31m404 - User with ID 3 does not exist in database - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: User with ID 3 does not exist in database[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:50:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:32:24:3224] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:32:27:3227] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 02:34:38:3438] [[31merror[39m]: [31m404 - User with ID 3 does not exist in database - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: User with ID 3 does not exist in database[39m
+[31m    at recommend (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/recommendationController.js:58:19)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 13:25:25:2525] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 13:29:54:2954] [[31merror[39m]: [31m401 - Invalid credentials - /api/auth/login - POST - ::1[39m
+[31mStack: Error: Invalid credentials[39m
+[31m    at login (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/authController.js:72:28)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 13:45:11:4511] [[31merror[39m]: [31m401 - Invalid token. Please log in again. - /api/recommendations/recommend - POST - ::1[39m
+[31mStack: Error: Invalid token. Please log in again.[39m
+[31m    at file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:34:11[39m
+[31m    at module.exports [as verify] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\jsonwebtoken\verify.js:70:12)[39m
+[31m    at protect (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/middleware/auth.middleware.js:26:9)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at router.process_params (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[2026-06-12 13:53:04:534] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 13:54:14:5414] [[31merror[39m]: [31mUNCAUGHT EXCEPTION! Shutting down...[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31mStack: Error: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1940:16)[39m
+[31m    at listenInCluster (node:net:1997:12)[39m
+[31m    at Server.listen (node:net:2102:7)[39m
+[31m    at app.listen (C:\Users\LENOVO\OneDrive\Desktop\Gemstone Recommendation Engine\backend\node_modules\express\lib\application.js:635:24)[39m
+[31m    at startServer (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/server.js:24:22)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[2026-06-12 14:31:09:319] [[31merror[39m]: [31m401 - Invalid credentials - /api/auth/login - POST - ::1[39m
+[31mStack: Error: Invalid credentials[39m
+[31m    at login (file:///C:/Users/LENOVO/OneDrive/Desktop/Gemstone%20Recommendation%20Engine/backend/src/controllers/authController.js:72:28)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m

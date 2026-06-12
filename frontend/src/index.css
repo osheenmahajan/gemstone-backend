@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Keep minimal global styling; feature pages will define their own layout */
+body {
+  margin: 0;
+}
+
